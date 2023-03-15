@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34395bb919e26b146b5759fb77c829ea, type: 3}
+  m_Name: PackageConifgEditor
+  m_EditorClassIdentifier: 
+  removeDirName: 
+  isUSE_SDK: 0
+  isUSE_CNSDK: 1
+  bundleVersion: 1.0.0
+  versionCode: 1000
+  lastVersionCode: 1
+  dateTimePackage: "2023\u5E7403\u670801\u65E5_20\u65F639\u5206"
+  workMode: 1
+  AndroidBuildType: 2
+  ScriptingBackend: 0
+  PackageType: 0
+  buildSystem: 0
+  isArmv7: 1
+  isArm64: 1
+  isX86: 0
+  isCompiling: 0
+  _outPackageDirPath: Android
+  isDelivery: 0
+  isEnableCDN: 0
+  isDebug: 0
+  isChangePackage: 0
+  isPackageResource: 1
+  isOpenGuide: 0
+  version_Data:
+    large: 1
+    middle: 0
+    small: 0
+  oldVersion_Data:
+    large: 1
+    middle: 0
+    small: 0
+  lastversion_Data:
+    large: 1
+    middle: 0
+    small: 0
+  isPreReleaseMode: 0
+  androidPackageChannal:
+  - packageName: com.jinke.xddmx
+    tooltip: "\u96EA\u5730\u5927\u5192\u9669  \u91C7\u7528\u91D1\u79D1sdk\u754C\u9762"
+    channelID: 0
+  - packageName: com.jinke.mergeanimalland.huawei
+    tooltip: "\u6D77\u5916\u5408\u5E76\u52A8\u7269 \u91D1\u79D1\u5B98\u7F51"
+    channelID: 0
+  - packageName: com.jinke.xddmx.nearme.gamecenter
+    tooltip: "OPPO-\u5355\u673A  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 6
+  - packageName: com.jinke.xddmx.vivo
+    tooltip: "VIVO-\u5355\u673A  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 8
+  - packageName: com.jinke.xddmx.huawei
+    tooltip: "\u534E\u4E3A-\u5355\u673A  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 9
+  - packageName: com.jinke.xddmx.mi
+    tooltip: "\u5C0F\u7C73-\u5355\u673A  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 13
+  - packageName: com.jinke.xddmx.m4399
+    tooltip: "4399-\u5355\u673A  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 4
+  - packageName: com.jinke.xddmx.guanwnag
+    tooltip: "\u597D\u6E38\u5FEB\u7206-\u5355\u673A  \u91C7\u7528\u91D1\u79D1sdk\u754C\u9762"
+    channelID: 57
+  - packageName: com.jinke.xddmx.guanwnag
+    tooltip: "TAPTAP-\u5355\u673A  \u91C7\u7528\u91D1\u79D1sdk\u754C\u9762"
+    channelID: 58
+  - packageName: com.jinke.xddmx.uc
+    tooltip: "UC-\u5355\u673A  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 16
+  - packageName: com.jinke.xddmx.yyb
+    tooltip: "\u5E94\u7528\u5B9D  \u7B2C\u4E09\u65B9\u754C\u9762"
+    channelID: 3
+  selectPackageName: com.jinke.mergeAnimal
